@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //comment from master code 1
+        //comment from master code 2
     }
 
     @Override
